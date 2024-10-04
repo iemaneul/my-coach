@@ -3,12 +3,12 @@ Is an app to see what kind of moves you need to do on each exercise in the gym.
 
 Tools used:
 
-![React](https://github.com/user-attachments/assets/14884ced-b79a-46af-a92e-2c5cc8a0d49c)
-![Expo](https://github.com/user-attachments/assets/721e900f-dd8b-4b71-9e7c-bd3f4872f718)
-![Tailwind](https://github.com/user-attachments/assets/ce20555e-af20-4513-af40-e85ba267a148)
-![JavaScript](https://github.com/user-attachments/assets/14c417bc-68b7-42fd-9217-983cfc3203c0)
-![NodeJs](https://github.com/user-attachments/assets/0013a6b0-3652-48b6-82e3-0184b37eabb2)
-![Figma](https://github.com/user-attachments/assets/607842b6-218c-4ac9-996d-b14ac77efe8e)
+![React](https://github.com/user-attachments/assets/f27811f1-7242-4d01-ae02-8a2cfb9d7ae0)
+![Expo](https://github.com/user-attachments/assets/1574667c-e36e-4d6b-b3d7-14a2ff3b6f6c)
+![JavaScript](https://github.com/user-attachments/assets/cac6ae39-658f-44c6-9c7f-2401fba62f34)
+![NodeJs](https://github.com/user-attachments/assets/020fea7f-5f2b-42ea-96e1-3b5f9e98cdbf)
+![Tailwind](https://github.com/user-attachments/assets/712b8494-f621-4a66-a299-daedceff6826)
+![Figma](https://github.com/user-attachments/assets/8f835179-76a8-4aac-86cc-b985dac99116)
 
 API used:
 https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb
