@@ -1,4 +1,4 @@
-#My Coach
+# My Coach
 Is an app to see what kind of moves you need to do on each exercise in the gym.
 
 Tools used:
