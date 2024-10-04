@@ -1,50 +1,52 @@
-# Welcome to your Expo app 👋
+#My Coach
+Is an app to see what kind of moves you need to do on each exercise in the gym.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Tools used:
 
-## Get started
+![React](https://github.com/user-attachments/assets/14884ced-b79a-46af-a92e-2c5cc8a0d49c)
+![Expo](https://github.com/user-attachments/assets/721e900f-dd8b-4b71-9e7c-bd3f4872f718)
+![Tailwind](https://github.com/user-attachments/assets/ce20555e-af20-4513-af40-e85ba267a148)
+![JavaScript](https://github.com/user-attachments/assets/14c417bc-68b7-42fd-9217-983cfc3203c0)
+![NodeJs](https://github.com/user-attachments/assets/0013a6b0-3652-48b6-82e3-0184b37eabb2)
+![Figma](https://github.com/user-attachments/assets/607842b6-218c-4ac9-996d-b14ac77efe8e)
 
-1. Install dependencies
+API used:
+https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb
 
-   ```bash
-   npm install
-   ```
+> [!IMPORTANT]  
+> You will need to Log in/ Sign up on Rapid API and use your own rapidApiKey
 
-2. Start the app
+First of all, you need to install some dependeces and plugins to run this project, this above are the essentials:
 
-   ```bash
-    npx expo start
-   ```
+<b>NPM</b>:
+```npm install```
 
-In the output, you'll find options to open the app in a
+Full documentation: https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<hr>
+<b>Expo</b>:
+```npm install expo```
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Full documentation: https://docs.expo.dev/bare/installing-expo-modules/
 
-## Get a fresh project
+Expo router:
+SDK 50 and above: ```npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar```
+SDK 49 and below: ```npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar react-native-gesture-handler```
 
-When you're ready, run:
+Expo router documentation: https://docs.expo.dev/router/installation/
 
-```bash
-npm run reset-project
-```
+<hr>
+<b>NativeWind</b>:
+```npm install nativewind```
+```npm install --save-dev tailwindcss@3.3.2```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Full documentation: https://www.nativewind.dev/quick-starts/expo
 
-## Learn more
+<hr>
+<b>React Native Reanimated</b>:
 
-To learn more about developing your project with Expo, look at the following resources:
+```npx expo install react-native-reanimated```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```npm install --save-dev tailwindcss@3.3.2```
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Full documentation: https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/
