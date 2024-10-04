@@ -50,3 +50,10 @@ Full documentation: https://www.nativewind.dev/quick-starts/expo
 ```npm install --save-dev tailwindcss@3.3.2```
 
 Full documentation: https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/
+
+<b>Screens:</b>
+
+![IMG_6184](https://github.com/user-attachments/assets/07f424b3-e9dc-492c-83b0-fe2566b9ae20)
+![IMG_6185](https://github.com/user-attachments/assets/f4b86948-89f5-40a9-8914-16f0196cd817)
+![IMG_6186 (1)](https://github.com/user-attachments/assets/b2f0e6d2-5299-43be-b4eb-1dffd4ef859f)
+
