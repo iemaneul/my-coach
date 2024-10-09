@@ -4,10 +4,10 @@ import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-nat
 import { StatusBar } from 'expo-status-bar';
 import { LinearGradient } from 'expo-linear-gradient';
 import Animated, { FadeInDown } from 'react-native-reanimated';
-import { useRouter } from 'expo-router'; // Alterei de useRoute para useRouter
+import { useRouter } from 'expo-router';
 
 export default function Index() {
-  const router = useRouter(); // Corrija para useRouter
+  const router = useRouter();
   return (
     <View className="flex-1 flex justify-end">
       <StatusBar style="light" />
